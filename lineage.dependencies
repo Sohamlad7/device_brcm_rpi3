@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "kernel_rpi",
+        "target_path": "kernel/rpi"
+    },
+    {
+        "repository": "hardware_rpi",
+        "target_path": "hardware/rpi"
+    }
+]
